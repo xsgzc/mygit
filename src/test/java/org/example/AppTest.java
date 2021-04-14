@@ -16,5 +16,7 @@ public class AppTest
     public void shouldAnswerWithTrue()
     {
         System.out.println("第一次提交git");
+        System.out.println("第二次提交git");
+
     }
 }
